@@ -10,7 +10,7 @@ function Header() {
       <div className={styles.header}>
 
       <div className={styles.div_logo}>
-        <img src={logo} className={styles.logo} alt="logo" />
+        <img src={logo} className={styles.logo} />
         <a href="#topo"><h1 className={styles.titulo}>OneBit Imóveis</h1></a>
       </div>
     
