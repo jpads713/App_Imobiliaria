@@ -14,7 +14,7 @@ body{
   z-index: 1000; 
 }
 
-.div_logo {
+ .div_logo {
   display: flex; 
   align-items: center; 
   gap: 10px;
@@ -25,16 +25,20 @@ body{
  
   
 }
+.div_logo a{
+  text-decoration: none;
+}
 
-.logo {
+ .logo {
   width: 40px;
   height: auto; 
 }
 
-.titulo {
+ .titulo {
   color: white;
   font-size: 1.2rem; 
   margin: 0;
+  
 }
 
 .nav {
